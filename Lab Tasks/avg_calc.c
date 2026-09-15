@@ -15,6 +15,6 @@ int main(){
 
     printf("The Avergae of Entered Numbers is: %f",average);
     getchar();
-
+    getchar();
     return 0;
 }

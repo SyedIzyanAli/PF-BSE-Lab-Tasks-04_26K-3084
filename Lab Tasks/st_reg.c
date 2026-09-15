@@ -14,7 +14,7 @@ ch = getchar();  // Takes a Single character as Input i.e: I.
 printf("Character Typed is: ");
 putchar(ch);
 getchar();
-
+getchar();
     return 0;
 }
 

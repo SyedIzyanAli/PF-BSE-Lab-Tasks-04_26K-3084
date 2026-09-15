@@ -13,7 +13,7 @@ else{
     printf("Fail!");
 }
 getchar();
-
+getchar();
 
     return 0;
 }

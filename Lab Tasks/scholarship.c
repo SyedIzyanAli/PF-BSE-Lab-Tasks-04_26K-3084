@@ -19,6 +19,6 @@ else{
     printf("Not Qualified for Scholarship!");
 }
 getchar();
-
+getchar();
     return 0;
 }
