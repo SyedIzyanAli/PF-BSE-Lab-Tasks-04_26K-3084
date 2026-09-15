@@ -8,7 +8,7 @@ printf("Enter Length of the Rectangle: ");
 scanf("%f",&length);
 
 printf("\nEnter Width of the Rectangle: ");
-scanf("%f",& width);
+scanf(" %f",&width);
 
 float area = width * length;
 
