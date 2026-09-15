@@ -9,7 +9,7 @@ int main(){
     scanf("%f",&num2);
     
     printf("Enter Third Number: ");
-    scanf("%f",&num3);
+    scanf(" %f",&num3);
 
     float average = (num1 + num2 + num3)/3;
 
