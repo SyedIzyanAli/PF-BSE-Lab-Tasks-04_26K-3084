@@ -13,6 +13,8 @@ printf("Enter First Character of Your Name: ");
 ch = getchar();  // Takes a Single character as Input i.e: I.
 printf("Character Typed is: ");
 putchar(ch);
+getchar();
+
     return 0;
 }
 

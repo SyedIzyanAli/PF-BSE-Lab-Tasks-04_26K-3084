@@ -23,5 +23,7 @@ else if (days>10){
     else{
         printf("Enter a Valid Input!");
     }
+    getchar();
+
     return 0;
 }

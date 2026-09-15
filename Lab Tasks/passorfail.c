@@ -12,6 +12,7 @@ if ((marks==50)||(marks>50))
 else{
     printf("Fail!");
 }
+getchar();
 
 
     return 0;

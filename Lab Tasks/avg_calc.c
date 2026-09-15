@@ -14,5 +14,7 @@ int main(){
     float average = (num1 + num2 + num3)/3;
 
     printf("The Avergae of Entered Numbers is: %f",average);
+    getchar();
+
     return 0;
 }

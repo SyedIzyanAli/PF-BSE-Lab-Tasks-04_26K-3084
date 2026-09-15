@@ -18,6 +18,7 @@ if ((percentage>80)||(percentage==80)||(income<50000))
 else{
     printf("Not Qualified for Scholarship!");
 }
+getchar();
 
     return 0;
 }

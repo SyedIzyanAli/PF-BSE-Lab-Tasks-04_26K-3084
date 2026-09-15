@@ -14,5 +14,7 @@ printf("The Square of %d is %d.",integer,square);
 
 printf("\nThe Cube of %d is %d.",integer,cube);
 
+getchar();
+
     return 0;
 }

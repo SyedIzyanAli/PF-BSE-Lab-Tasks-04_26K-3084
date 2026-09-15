@@ -18,6 +18,7 @@ printf("\nThe Area of Rectangle is: %fsq.units",area);
 
 printf("\nThe Perimeter of Rectangle is: %funits",perimeter);
 
+getchar();
     return 0;
 }
 
